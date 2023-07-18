@@ -1,0 +1,25 @@
+  /* Styles pour le thème sombre */
+.sombre {
+  /* Styles CSS pour le thème sombre */
+  background-color: #212121;
+  color: #ffffff;
+}
+
+html {background-color: #212121;}
+body {background-color: #212121 !important; color: #ebebe8 !important;}
+textarea, input {background-color: #212121 !important; color:white !important;margin-top: 20px !important;}
+.btn:hover {}
+.btn:focus{border-color: #04c714 !important; }
+.btn-success:focus {color: #ffffff !important; background-color: #04c714 !important; }
+{color: #00ba10;}
+.btn-success:hover {color: #ffffff !important; background-color: #03990f !important; }
+
+/*1-[FICHE BOT ET FICHE CLIENT]*/
+/* 1-1 TEXTE SUR LES FICHES */
+.panel-default {background-color: #323232 !important; color: #dbdbdb;} 
+
+/*TABLEAUX*/
+td {background-color: #4a4a4a !important; color: #ffffff;}
+/*CONTAINER POUR LE CONTENU DE LA CONVERSATION (HISTORIQUE)*/
+.chat_history_container {background-color: #292929; border-radius: 2px;}
+.chat_history {background-color: #292929;color: #ffffff;}
